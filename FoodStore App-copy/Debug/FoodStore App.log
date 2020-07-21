@@ -1,0 +1,3 @@
+﻿  HashTable.cpp
+C:\Users\lambo\source\repos\FoodStore App\HashTable.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambo\source\repos\FoodStore App\HashTable.cpp(135,8): warning C4101: 'correctcheck': unreferenced local variable
